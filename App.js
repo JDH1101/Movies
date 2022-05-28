@@ -19,5 +19,5 @@ export default function App() {
       />
     );
   }
-  return <Text>done loading</Text>;
+  return <Text>done loading !!</Text>;
 }
